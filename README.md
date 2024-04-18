@@ -1,1 +1,1 @@
-This repository contains jupyter notebooks of PyTorch implementation of different Deep Learning Projects. 
+UpNext in this repository will be jupyter notebook of PyTorch implementation of Convolutional Neural Networks Project. 
