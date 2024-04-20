@@ -1,1 +1,1 @@
-UpNext in this repository will be jupyter notebook of PyTorch implementation of Road Sign Image Identification. 
+Next in this repository, there will be a Jupyter notebook implementing Road Sign Image Identification using PyTorch.
